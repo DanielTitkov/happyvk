@@ -1,0 +1,7 @@
+token
+
+*.log
+*.sql
+*.sqlite
+
+**/.ipynb_checkpoints
