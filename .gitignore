@@ -3,5 +3,6 @@ token
 *.log
 *.sql
 *.sqlite
+*.db
 
 **/.ipynb_checkpoints
